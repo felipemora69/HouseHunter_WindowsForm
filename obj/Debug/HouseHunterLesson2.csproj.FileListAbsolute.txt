@@ -1,0 +1,24 @@
+C:\Users\yami_\source\repos\HouseHunterLesson2\bin\Debug\HouseHunterLesson2.exe.config
+C:\Users\yami_\source\repos\HouseHunterLesson2\bin\Debug\HouseHunterLesson2.exe
+C:\Users\yami_\source\repos\HouseHunterLesson2\bin\Debug\HouseHunterLesson2.pdb
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.csproj.AssemblyReference.cache
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.Form1.resources
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.Properties.Resources.resources
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.csproj.GenerateResource.cache
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.csproj.CoreCompileInputs.cache
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.exe
+C:\Users\yami_\source\repos\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.pdb
+C:\Users\yami_\source\repos\HouseHunterLesson2\bin\Debug\HouseData.mdf
+C:\Users\yami_\source\repos\HouseHunterLesson2\bin\Debug\HouseData_log.ldf
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\bin\Debug\HouseData.mdf
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\bin\Debug\HouseData_log.ldf
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\bin\Debug\HouseHunterLesson2.exe.config
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\bin\Debug\HouseHunterLesson2.exe
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\bin\Debug\HouseHunterLesson2.pdb
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.Form1.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.exe
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\HouseHunterLesson2\obj\Debug\HouseHunterLesson2.pdb
